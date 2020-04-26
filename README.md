@@ -1,6 +1,6 @@
 # Google Books Search (MERN Stack Application)
 
-Link to live demo - https://djpop408.github.io/react-clicky-game/
+Link to live demo - https://google-books--mern.herokuapp.com/
 
 # Project Description
 
